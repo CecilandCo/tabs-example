@@ -8,3 +8,9 @@ div {
   border: 1px solid #444444;
   width: 300px;
 }
+
+.active {
+  background-color: #444;
+  border: 1px solid white;
+  color: white;
+}
