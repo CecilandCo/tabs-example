@@ -1,0 +1,10 @@
+li {
+  padding: 0 20px 0 20px;
+  display: inline;
+  border: 1px solid #444444;
+}
+
+div {
+  border: 1px solid #444444;
+  width: 300px;
+}
